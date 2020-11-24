@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "475351437485",
+    "firebase_url": "https://agora-vai-11b2b.firebaseio.com",
+    "project_id": "agora-vai-11b2b",
+    "storage_bucket": "agora-vai-11b2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475351437485:android:de7834bb0ed7021395b624",
+        "android_client_info": {
+          "package_name": "br.com.jobson.agoravai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475351437485-vqv0prjlnbkhkula41qtu9n6silugi3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk6RD2_FzeRkVQT9JLyd-NGiYZFmpzWtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475351437485-vqv0prjlnbkhkula41qtu9n6silugi3r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
